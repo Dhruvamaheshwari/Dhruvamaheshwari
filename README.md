@@ -68,37 +68,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Counting-blueviolet?style=for-the-badge" />
-</p>
-
-
----
-
-## 📰 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvamaheshwari&style=for-the-badge&color=blue" />
-</p>
-
-
----
-
-## 🎯 Fun Fact  
-💡 *I learn faster when I break things first.* 😄
-
----
-
-## ⭐ If you like my work, consider giving my repositories a star!
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/dhruvamaheshwari?style=for-the-badge&color=yellow" />
-</p>
