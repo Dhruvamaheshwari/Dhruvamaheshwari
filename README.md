@@ -45,21 +45,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,nodejs,express,react,tailwind,mysql,mongodb,docker,linux,nginx,git&theme=dark" />
 </p>
 
----
+----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvamaheshwari&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvamaheshwari&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&area=true&hide_border=true" />
-</p>
 
 ---
 
